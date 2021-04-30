@@ -5,6 +5,8 @@
 /.pnp
 .pnp.js
 
+.env
+
 # testing
 /coverage
 
@@ -32,3 +34,8 @@ yarn-error.log*
 
 # vercel
 .vercel
+
+# bubblewrap
+
+/android/android.keystore
+/android/app/build
